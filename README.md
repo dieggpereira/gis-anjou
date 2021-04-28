@@ -4,4 +4,4 @@
  
 ### Sources:
 #### HOOPER, Nicholas; BENNETT, Matthew. _The Cambridge Illustrated Atlas of Warfare:_ The Middle Ages 768-1487 (Cambridge Illustrated Atlases). The Cambridge University Press, 1996, p. 35.
-#### DARMC, 2010. [Digital Atlas of Roman and Medieval Civilization.](http://darmc.harvard.edu/)  
+#### Michael McCormick et al. (eds.),. [Digital Atlas of Roman and Medieval Civilization (DARMC).](http://darmc.harvard.edu/) Cambridge (Massachusetts), 2007.
