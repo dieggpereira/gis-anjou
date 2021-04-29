@@ -1,5 +1,5 @@
-# County of Anjou | 11th-12th centuries
-## Battles, cities, fortifications and territories between the 11th-12th centuries 
+# County of Anjou | 10th-11th centuries
+## Battles, cities, fortifications and territories between the 10th-11th centuries 
 ###  Repository of Shapefiles (SHP), which can be imported directly into a GIS processing software.
  
 ### Sources:
