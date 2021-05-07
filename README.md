@@ -7,6 +7,3 @@
 #### Michael McCormick et al. (eds.),. [Digital Atlas of Roman and Medieval Civilization (DARMC).](http://darmc.harvard.edu/) Cambridge (Massachusetts), 2007.
 
 #### Data generated during the research entitled [Eucharistic controversy: a study on relations between theology and society in the eleventh century of the medieval west](https://bv.fapesp.br/en/bolsas/188103/eucharistic-controversy-a-study-on-relations-between-theology-and-society-in-the-eleventh-century-o/), carried out by [Diego Pereira](https://unicamp.academia.edu/DPereira) under the supervision of [PhD. Néri de Barros Almeida](https://bv.fapesp.br/en/pesquisador/87255/neri-de-barros-almeida/) and with funding from the São Paulo Research Foundation (FAPESP), grant #2019/05618-9.
-
-
-
